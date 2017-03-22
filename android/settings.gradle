@@ -1,0 +1,3 @@
+rootProject.name = 'dev2dev'
+
+include ':app'
