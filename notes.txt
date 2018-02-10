@@ -1,0 +1,1 @@
+When using the opacity property you are changing the entire opacity of the view you are applying the property on. Any child components will inherit this opacity. In this case opacity should be applied on the color only. So this should be the correct answer.
